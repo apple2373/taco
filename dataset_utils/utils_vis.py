@@ -1,5 +1,5 @@
 # utility functions for visualization of hand pose, camera, and 3D objects, etc
-
+# Satoshi
 import os
 import numpy as np
 from matplotlib import pyplot as plt
